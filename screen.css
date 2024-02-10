@@ -1,1 +1,34 @@
 /* Add screen styles below */
+body {
+    background: #FAE1DD;
+    margin-top: 100px;
+}
+
+h1 {
+    background: #FFD7BA;
+    margin: 0;
+    padding: 20px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 33px 33px 33px 33px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    margin: 0;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    margin: 0;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    margin: 0;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
