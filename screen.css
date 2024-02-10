@@ -1,34 +1,75 @@
 /* Add screen styles below */
 body {
     background: #FAE1DD;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 h1 {
     background: #FFD7BA;
     margin: 0;
-    padding: 20px;
+    padding: 30px;
     border-width: 1.5px;
     border-style: solid;
     border-color: black;
-    border-radius: 33px 33px 33px 33px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 33px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
+    font-size: 48px;
     margin: 0;
     padding: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h3 {
+    font-size: 36px;
     margin: 0;
     padding: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
+    font-size: 20;
     margin: 0;
     padding: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.greentext {
+    color: #709E83;
+}
+
+.orangetext {
+    color: #FF8975;
+}
+
+header {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.container {
+    background: rgba(216, 226, 220, .75);
+    color: #000000;
+    margin: 0 auto;
+    width: 1500px;
+    height: 331px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 58px;
+}
+
+.block {
+    padding: 45px;
+}
+
+.hero {
+    padding: 100px;
+}
+
+img {
+    float: left;
+    margin-right: 50px;
 }
